@@ -1,0 +1,98 @@
+body{
+    background-image: url(../images/flag.png);
+    background-size:1500px 900px; 
+    background-blend-mode:lighten;
+}
+
+.container{
+    margin-left:350px;
+    height:300px;
+    width:450px;
+    margin-top:50px;
+    box-shadow: 5px 5px 14px 6px;
+}
+
+.orange{
+    height:100px;
+    width:450px;
+    background-color:darkorange;
+    border:1px black groove;
+     
+}
+
+.white{
+    
+    height:100px;
+    width:450px;
+    background-color:white;
+    border:1px black groove;
+    
+}
+
+.green{
+    height:100px;
+    width:450px;
+    background-color:forestgreen;
+    border:1px black groove;
+    
+}
+
+.pole{
+    background-color:gray;
+    height:300px;
+    width:10px;
+    margin-left:350px;
+    border:1px black groove;
+    
+}
+
+
+.chakr{
+    position: absolute;
+    left: 530px;
+    top: 153px;
+    height:100px;
+    width:100px;
+    
+}
+
+.bricks{
+    background-color: gray;
+    border:1px black groove;
+}
+
+#brick1{
+    width:80px;
+    height:30px;
+    background-color: lightgray;
+    margin-left:315px;
+    border:1px black groove;
+   }
+
+#brick2{
+    width:140px;
+    height:30px;
+    background-color: lightgray;
+    margin-left:285px;
+    border:1px black groove;
+}
+
+#brick3{
+    width:200px;
+    height:30px;
+    background-color: lightgray;
+    margin-left:255px;
+    border:1px black groove;
+}
+
+h2{
+    position:absolute;
+    left:900px;
+    top:500px;
+    color:darkslategray;
+}
+
+
+
+
+
